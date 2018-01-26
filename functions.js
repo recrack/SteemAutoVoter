@@ -77,6 +77,8 @@ function vote(vvote) {
     });
 }
 
+// FIXME: 보팅하는사람이 자신의 글이 보팅? 관련해서 수정이 필요함
+// 내가 나한테 보팅?
 function CheckVoted() {
     //last post by nomadsteem
     var vfound = 'false';
@@ -219,7 +221,7 @@ function regvote() {
     localStorage.setItem("VotingPower", $("#VoteP").val());
     localStorage.setItem("Reftime", $("#RefreshTime").val());
 
-    CheckVoted();
+    //CheckVoted();
     var Timer = setTimeout(function() {
         regvote();
     }, $("#RefreshTime").val() * 1000);
