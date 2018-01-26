@@ -1,4 +1,8 @@
 # 스팀잇 자동 보팅 봇!
+TODO
+- 내 팔로워 기준으로 보팅하자! (언제가 될지 모르겠지만~~~~!!!)
+
+---
 # Fork : https://github.com/theserranos/SteemAutoVoter
 # SteemAutoVoter
 <p>Tool to get curation rewards from Steem blockchain</p>
