@@ -221,7 +221,7 @@ function regvote() {
     localStorage.setItem("VotingPower", $("#VoteP").val());
     localStorage.setItem("Reftime", $("#RefreshTime").val());
 
-    //CheckVoted();
+    CheckVoted();
     var Timer = setTimeout(function() {
         regvote();
     }, $("#RefreshTime").val() * 1000);
