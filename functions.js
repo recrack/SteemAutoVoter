@@ -28,7 +28,7 @@ function inicio() {
         var luacc = LUAccount($("#bvoter").val())
 
     })
-     getimg( ($("#bvoter").val()));
+     //getimg( ($("#bvoter").val()));
 }
 
 function CleanNav() {
@@ -349,7 +349,7 @@ function LUAccount(accountNames) {
         } else {
             $("#bvoter").attr('class', 'form-control alert alert-success')
         }
-        getimg( ($("#bvoter").val()));
+        //getimg( ($("#bvoter").val()));
         return ( result[0])
     });
 }

@@ -1,3 +1,5 @@
+# 스팀잇 자동 보팅 봇!
+# Fork : https://github.com/theserranos/SteemAutoVoter
 # SteemAutoVoter
 <p>Tool to get curation rewards from Steem blockchain</p>
 <p>This toll allows to choose categories , voting power  and voting frequency </p>
