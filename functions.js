@@ -1,3 +1,5 @@
+steem.api.setOptions({ url: 'https://api.steemit.com'});
+
 var AccInfo = null
 var r = null;
 var Timer = null;
