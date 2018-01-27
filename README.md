@@ -1,6 +1,7 @@
 # 스팀잇 자동 보팅 봇!
-TODO
-- 내 팔로워 기준으로 보팅하자! (언제가 될지 모르겠지만~~~~!!!)
+TODO (언제가 될지 모르겠지만!!!)
+- 내 팔로워 기준으로 보팅하자! ( hahaheehee 님 피드백)
+- 최대 횟수의 제한이 있거나 보팅파워가 90%이하가 되면 중지되는 옵션 (chungjh 님 피드백)
 
 ---
 # Fork : https://github.com/theserranos/SteemAutoVoter
